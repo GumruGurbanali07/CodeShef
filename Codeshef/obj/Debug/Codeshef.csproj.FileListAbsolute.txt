@@ -1,0 +1,7 @@
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\bin\Debug\Codeshef.exe.config
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\bin\Debug\Codeshef.exe
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\bin\Debug\Codeshef.pdb
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\obj\Debug\Codeshef.csproj.AssemblyReference.cache
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\obj\Debug\Codeshef.csproj.CoreCompileInputs.cache
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\obj\Debug\Codeshef.exe
+C:\Users\Sheki-S\source\repos\Codeshef\Codeshef\obj\Debug\Codeshef.pdb
